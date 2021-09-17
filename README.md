@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Tabalho como Desenvolvedor full stack
-- 🌱 Estudando laravel 
+- Tabalho como Desenvolvedor full stack
+- Curso Ciência da computação 
 
 <div>
   <a href="https://github.com/Junior41">

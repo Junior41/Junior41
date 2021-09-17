@@ -15,10 +15,10 @@ Here are some ideas to get you started:
    </div>
 </div>
 
-<table>
+<table align = "center">
   <tr>
     <td valign="center" width = "410em"><p>Atualmente, curso ciência da computação na Universidade federal do Espirito Santo. Trabalho na empresa Júnior Adapti Soluções Web como assessor de desenvolvimento. Participo de um projeto de extensão da Universidade onde buscamos automatizar processos de coleta e exposição de dados sobre a dengue. Sou apaixonado por tecnologia e estou sempre em busca de conhecimento e capacitação.</p></td>
-    <td valign="center">   <a href="https://github.com/Junior41">
+    <td valign="center" width = "410em">   <a href="https://github.com/Junior41">
   <img height="180em" width = "410em" src="https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
   </tr>
 </table>

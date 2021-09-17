@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 - Tabalho como Desenvolvedor full stack
 - Curso Ciência da computação 
-
 <div>
   <a href="https://github.com/Junior41">
   <img height="180em" width = "410em" src="https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>

@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Atualmente, tabalho como Desenvolvedor full stack
+- 🔭 Tabalho como Desenvolvedor full stack
 - 🌱 Estudando laravel 
 
 <div>

@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 <table align = "center">
   <tr>
-    <td valign="center" width = "410em"> <a href="https://github.com/Junior41">
-                                        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior41&layout=compact&langs_count=7&theme=dracula"/></p></td>
-    <td valign="center" width = "410em">   <a href="https://github.com/Junior41">
-  <img height="180em" width = "410em" src="https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></a>
+    <td valign="center" width = "410em"> 
+      <a href="https://github.com/Junior41">
+        <img height="160em" width = "410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior41&layout=compact&langs_count=7&theme=dark"/>
+      </a>
+    </td>
+    <td valign="center" width = "410em">   
+      <a href="https://github.com/Junior41">
+        <img height="180em" width = "410em" src="https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
   </tr>
 </table>
 

@@ -1,4 +1,4 @@
-### Olá, eu sou o Júnior!
+
 
 <!--
 **Junior41/Junior41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,27 +15,17 @@ Here are some ideas to get you started:
    </div>
 </div>
 
-<table align = "center">
-  <tr>
-    <td valign="center" width = "410em" > 
-      <a href="https://github.com/Junior41">
-        <img height="160em" width = "410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior41&layout=compact&langs_count=7&theme=dark"/>
-      </a>
-    </td>
-    <td valign="center" width = "410em">   
-      <a href="https://github.com/Junior41">
-        <img height="180em" width = "410em" src="https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
+<div style = "display:flex;" align = "center">
+  <img height="160em" width = "410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior41&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" width = "410em" src="https://github-readme-stats.vercel.app/api?username=Junior41&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block" align = "center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
  

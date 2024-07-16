@@ -1,10 +1,13 @@
 
+<h1>Olá, eu sou Júnior!</h1>
 
-<!--
-**Junior41/Junior41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<ul>
+  <li>⚡ 23 Anos</li>
+  <li>🎓 Estudante de ciência da computação na UFES</li>
+  <li>🧑🏾‍💻 Desenvolvedor Júnior na <a href = "https://www.empresaqui.com.br/">EmpresAqui</a> </li>
+</ul>
+<br/>
+<br/>
 <div>
   
 </div>
@@ -27,6 +30,9 @@ Here are some ideas to get you started:
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
 </div>
  
   ##

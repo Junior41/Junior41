@@ -3,7 +3,7 @@
 
 <ul>
   <li>⚡ 23 Anos</li>
-  <li>🎓 Ciêntista da computação pela UFES</li>
+  <li>🎓 Cientista da computação pela UFES</li>
   <li>🧑🏾‍💻 Desenvolvedor Júnior na <a href = "https://www.empresaqui.com.br/">EmpresAqui</a> </li>
 </ul>
 <br/>

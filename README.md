@@ -5,7 +5,7 @@
   <li>⚡ 24 Anos</li>
   <li>🎓 Cientista da computação pela UFES</li>
    <li>🎓 Mestrando em ciência de dados pela USP</li>
-  <li>🧑🏾‍💻 Desenvolvedor Júnior em <a href = "https://www.empresaqui.com.br/">EmpresAqui</a> </li>
+  <li>🧑🏾‍💻 Cientista de dados em <a href = "[https://www.empresaqui.com.br](https://www.itau.com.br//">Itaú</a> </li>
 </ul>
 <br/>
 <br/>
